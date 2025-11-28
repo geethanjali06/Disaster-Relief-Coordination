@@ -1,0 +1,1 @@
+The Disaster Relief Coordination App is an open-source, no-code/low-code project designed to help communities respond quickly and efficiently during floods, earthquakes, fires, and other emergencies. Built using Airtable (for backend database) and Appsmith (for the user interface), the app connects volunteers, victims, NGOs, and local authorities in one centralized platform.
